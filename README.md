@@ -10,7 +10,7 @@ This project is first test using RunwayML for exploration and prototyping and Fl
 The goal is to provide a working, better-than-baseline chatbot that is publicly accessible and can be flexibly scaled up and/or iterated with different datasets.
 
 
-The text dataset for the FAQ was obtained from a webmaster at the City of Boulder. It has purpose just fro the demo. Dataset on climate change is in the works.
+The text dataset was obtained from a webmaster at the City of Boulder. It has purpose just for the demo. Dataset on climate change is in the works.
 
 
 
