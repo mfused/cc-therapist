@@ -1,29 +1,17 @@
-inquire-boulder-chatbot
+cc-therapist demo forked from inquire-boulder-chatbot
 ==============================
-A chatbot for the Inquire Boulder FAQ<br>
-Interactive Web Demo: https://willtscott.github.io/inquire-boulder-chatbot/
+A chatbot for the climate change comforting<br>
 
-Keywords: Python, scikit-learn, NLTK, spaCy, GenSim, Doc2Vec, Flask, Docker, Google Cloud Products, Dialogflow
 
-This project is written in Python using Jupyter Notebooks for exploration and prototyping and Flask and Docker for deployment on Google Cloud Products. I used NLTK and spaCy for NLP (including tokenizing and lemmatization) and scikit-learn for vectorization and similarity matching with Bag-of-Words (BOW), Term Frequency-Inverse Document Frequency (TFIDF), and cosine similarity. The cloud service connects with a Dialogflow agent via webhooks, which provides the public interface.
+Keywords: RunwayML, GTP2, Python, Flask, Docker, Google Cloud Products, Dialogflow
+
+This project is first test using RunwayML for exploration and prototyping and Flask and Docker for deployment on Google Cloud Products. The cloud service connects with a Dialogflow agent via webhooks, which provides the public interface.
 
 The goal is to provide a working, better-than-baseline chatbot that is publicly accessible and can be flexibly scaled up and/or iterated with different datasets.
 
-The process is explained in further detail by my article:
-https://towardsdatascience.com/faq-chatbot-mvp-871ab7db94cc
 
-The text dataset for the FAQ was obtained from a webmaster at the City of Boulder. Thanks goes to Nicolia Eldred-Skemp for help acquiring this data. 
+The text dataset for the FAQ was obtained from a webmaster at the City of Boulder. It has purpose just fro the demo. Dataset on climate change is in the works.
 
-Other Links:<br>
-
-Inquire Boulder:<br>
-https://user.govoutreach.com/boulder/faq.php
-
-Boulder Open Data Portal:<br>
-https://bouldercolorado.gov/open-data/areas-of-inquiry
-
-Related Project by Doster Esh:<br>
-https://github.com/doc1000/email_sorting
 
 
 Project Organization
