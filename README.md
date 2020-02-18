@@ -2,6 +2,8 @@ cc-therapist demo forked from inquire-boulder-chatbot
 ==============================
 A chatbot for the climate change comforting<br>
 
+This ongoing project was created as response to WOE bot, which I reallz like.
+
 
 Keywords: RunwayML, GTP2, Python, Flask, Docker, Google Cloud Products, Dialogflow
 
