@@ -60,5 +60,8 @@ Project Organization
 
 --------
 
+![letsgetstarted](https://user-images.githubusercontent.com/34067506/74720907-d5637c80-5236-11ea-9587-12ba66b78a88.jpg)
+
+
 Project organization based on the cookiecutter data science project template.
 https://drivendata.github.io/cookiecutter-data-science/
