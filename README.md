@@ -2,13 +2,13 @@ cc-therapist demo forked from inquire-boulder-chatbot
 ==============================
 A chatbot for the climate change comforting<br>
 
-This ongoing project was created as response to WOE bot, which I really like and enjoy talking to.
+This ongoing project was created as response to current CC situation, my liking of WOE bot, with whom  I really enjoy talking and currrent speedy progress of NLP.
 
 ![4woes](https://user-images.githubusercontent.com/34067506/74711854-3bdf9f00-5225-11ea-8a0a-e182b17c6893.jpg)
 
 
 
-Keywords: RunwayML, GTP2, Python, Flask, Docker, Google Cloud Products, Dialogflow
+Keywords: RunwayML, GTP2, Python, Flask, Docker, Google Cloud Products
 
 This project is first test using RunwayML for exploration and prototyping and Flask and Docker for deployment on Google Cloud Products. The cloud service connects with a Dialogflow agent via webhooks, which provides the public interface.
 
