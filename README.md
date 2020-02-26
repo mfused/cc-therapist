@@ -3,6 +3,10 @@ cc-therapist demo forked from inquire-boulder-chatbot
 A chatbot for the climate change comforting<br>
 
 This ongoing project was created as response to current CC situation, my liking of WOE bot, with whom  I really enjoy talking and currrent speedy progress of NLP.
+There are multiple trials, as I am researching which way to go.
+Here is one based on open-source boulder colorado city hall chatbot which i found here on github.
+The one based on IBM Watson is also functional, I will link soon to that.
+
 
 ![4woes](https://user-images.githubusercontent.com/34067506/74711854-3bdf9f00-5225-11ea-8a0a-e182b17c6893.jpg)
 
